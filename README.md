@@ -17,13 +17,11 @@ Trade history and user reviews
 Admin dashboard for managing users and content
 
 🚀 Tech Stack
-Frontend: [e.g., React, Vue, or HTML/CSS/JavaScript]
+Frontend: [HTML/CSS/JavaScript]
 
-Backend: [e.g., Node.js, Django, Laravel, etc.]
+Backend: [PHP]
 
-Database: [e.g., MongoDB, MySQL, PostgreSQL]
-
-Authentication: [e.g., JWT, OAuth]
+Database: [MySQL]
 
 💡 Use Cases
 Exchange books, clothes, gadgets, or services

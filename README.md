@@ -17,6 +17,7 @@ Trade history and user reviews
 Admin dashboard for managing users and content
 
 🚀 Tech Stack
+
 Frontend: [HTML/CSS/JavaScript]
 
 Backend: [PHP]
